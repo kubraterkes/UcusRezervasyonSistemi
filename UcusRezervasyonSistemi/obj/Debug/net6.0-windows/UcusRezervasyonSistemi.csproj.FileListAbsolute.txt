@@ -1,0 +1,36 @@
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.deps.json
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.runtimeconfig.json
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\ref\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.Form1.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\ref\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.genruntimeconfig.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.exe
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.deps.json
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.runtimeconfig.json
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\bin\Debug\net6.0-windows\UcusRezervasyonSistemi.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.Form1.resources
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.AssemblyInfo.cs
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\refint\UcusRezervasyonSistemi.dll
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.pdb
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\UcusRezervasyonSistemi.genruntimeconfig.cache
+C:\Users\kubra\OneDrive\Belgeler\GitHub\UcusRezervasyonSistemi\UcusRezervasyonSistemi\obj\Debug\net6.0-windows\ref\UcusRezervasyonSistemi.dll
